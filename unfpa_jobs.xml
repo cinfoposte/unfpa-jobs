@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>UNFPA Job Vacancies</title>
     <link>https://www.unfpa.org/jobs</link>
-    <description>List of vacancies at UNFPA</description>
+    <description><![CDATA[List of vacancies at UNFPA]]></description>
     <language>en</language>
     <atom:link href="https://cinfoposte.github.io/unfpa-jobs/unfpa_jobs.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Feb 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 24 Feb 2026 09:39:19 +0000</pubDate>
+    <item>
+      <title>International Programme Coordinator P3 Fta Aden Yemen</title>
+      <link>https://www.unfpa.org/jobs/international-programme-coordinator-p3-fta-aden-yemen</link>
+      <description><![CDATA[UNFPA has a vacancy for the position of International Programme Coordinator P3 Fta Aden Yemen. Location: .]]></description>
+      <guid isPermaLink="false">0434086186099367</guid>
+      <pubDate>Tue, 24 Feb 2026 09:39:19 +0000</pubDate>
+      <source url="https://www.unfpa.org/jobs">UNFPA Job Vacancies</source>
+    </item>
   </channel>
 </rss>
